@@ -1,9 +1,8 @@
 COMMIT INFORMATION DOCUMENT
 
-RCN: Commit1
-PUB: 71023
+RCN: Commit2
+PUB: 131023
 
-- Bored games\RockPaperScissors.java
-- Quizzes\ModifiedQuiz.java
+- Converters\CurrencyConverter.java
 - README.md
 
