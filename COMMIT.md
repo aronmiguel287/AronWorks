@@ -1,8 +1,13 @@
 COMMIT INFORMATION DOCUMENT
 
-RCN: Commit3
-PUB: 191023
+RCN: Commit4
+PUB: 191023(2)
 
-- Simulation\ATMSimulation\bin\ATM\ATMSim.class
-- README.md
+- Converters\CurrencyConverter.java
+- Converters\TemperatureConverter\.vscode\settings.json
+- TemperatureConverter\bin\Converter\Main.class
+- TemperatureConverter\README.md
+- TemperatureConverter\src\Converter\Main.java
+- RockPaperScissors.java
+- Quizzes\ModifiedQuiz.java
 
